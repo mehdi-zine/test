@@ -26,5 +26,8 @@ public class Bloc {
     //@OneToMany(cascade = CascadeType.ALL,mappedBy = "bloc")
     //private List<Chambre> chambres;qsdfqsfsfqfsdf
 
+//razraezraezra
+
+
 
 }
