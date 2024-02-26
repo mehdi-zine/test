@@ -24,7 +24,7 @@ public class Bloc {
     private Foyer foyer;
     //@OneToMany(mappedBy = "bloc" ,fetch = FetchType.Lazy,cascade =  CascadeType.ALL)
     //@OneToMany(cascade = CascadeType.ALL,mappedBy = "bloc")
-    //private List<Chambre> chambres;
+    //private List<Chambre> chambres;qsdfqsfsfqfsdf
 
 
 }
